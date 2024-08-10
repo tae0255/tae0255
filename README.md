@@ -20,5 +20,5 @@
   
 > **LINKS**  
 > [gists - 요즘 개발/공유한 코드스니펫 모음](https://gist.github.com/tae0y)    
-> [github repositories - 요즘 개발중인 레포](https://github.com/tae0y?tab=repositories)  
-> [stars - 요즘 관심있는 레포](https://github.com/tae0y?tab=stars)    
+> [repos - 요즘 개발중인 레포](https://github.com/tae0y?tab=repositories)  
+> [stars - 요즘 관심있는 것들!](https://github.com/tae0y?tab=stars)    

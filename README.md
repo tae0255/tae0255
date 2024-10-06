@@ -17,7 +17,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftae0y%2Ftae0y&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
   
-> **LINKS**  
-> [gists - 요즘 개발/공유한 코드스니펫 모음](https://gist.github.com/tae0y)    
-> [repos - 요즘 개발중인 레포](https://github.com/tae0y?tab=repositories)  
-> [stars - 요즘 관심있는 것들!](https://github.com/tae0y?tab=stars)    
+## 관련 현황
+- [gists - 요즘 개발/공유한 코드스니펫 모음](https://gist.github.com/tae0y)    
+- [repos - 요즘 개발중인 레포](https://github.com/tae0y?tab=repositories)  
+- [stars - 요즘 관심있는 것들!](https://github.com/tae0y?tab=stars)     
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tae0y&count_private=true&show_icons=true)](https://github.com/tae0y/github-readme-stats)
